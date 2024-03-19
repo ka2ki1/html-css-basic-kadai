@@ -6,7 +6,7 @@ body {
 h1 {
   font-family: 'Josefin Sans', sans-serif;
   font-size: 40px;
-  letter-spacing: 1.2em;
+  letter-spacing: 2rem;
   text-shadow: 2px 2px 4px #888888;
   border-bottom: 3px solid rgb(115, 115, 114);
   margin-bottom: 10px;
@@ -28,3 +28,8 @@ h1 {
 .bold {
   font-weight: bold;
 }
+
+html {
+  font-size: 20px;
+}
+
